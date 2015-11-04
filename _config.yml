@@ -1,0 +1,23 @@
+name: SocialOutlier
+favicon: null
+layout_spectrum: 0.878357338020578
+typography_spectrum: 0.3664114458952099
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.973867247113958
+  lightness: 0.23899116599932313
+  saturation: 0.5136603256687522
+  rhythmicContrast: 0.4048909144476056
+purpose: []
