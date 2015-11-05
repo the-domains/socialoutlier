@@ -1,23 +1,40 @@
-name: SocialOutlier
-favicon: null
-layout_spectrum: 0.878357338020578
-typography_spectrum: 0.3664114458952099
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.973867247113958
-  lightness: 0.23899116599932313
-  saturation: 0.5136603256687522
-  rhythmicContrast: 0.4048909144476056
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5681003
+  lightness: 0.2389912
+  brandStrength: 0.973867247113958
+  brandColors:
+    - '#FFFFFF'
+    - '#252021'
+    - '#C7C5C5'
+    - '#E12028'
+    - '#787677'
+  rhythmicContrast: 0.4048909
+typography_spectrum: 0.9205496
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+favicon: null
+name: SocialOutlier
