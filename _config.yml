@@ -1,7 +1,7 @@
 name: SocialOutlier
 favicon: null
 layout_spectrum: 0.5
-typography_spectrum: 0.9205496
+typography_spectrum: 0.51321
 collections:
   - index:
       path: /
