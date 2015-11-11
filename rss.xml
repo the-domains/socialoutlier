@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SocialOutlier]]></title>
+        <description><![CDATA[SocialOutlier]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 Nov 2015 02:35:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Twitter Campaign Fails]]></title>
+            <description><![CDATA[<article><h1>Twitter Campaign Fails</h1><p> Twitter Campaign Fails Twitter is an amazingly powerful tool. When used well, it’s an incredible platform from which a brand, organization or single person .</p></article>]]></description>
+            <link>undefinedtwitter-campaign-fails/index.html</link>
+            <guid isPermaLink="false">2558fc59-8cca-4afc-983a-22e83841f4c5</guid>
+            <pubDate>Wed, 11 Nov 2015 02:35:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
