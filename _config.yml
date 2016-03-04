@@ -1,5 +1,8 @@
+name: SocialOutlier
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.698711
 title: A Digital Agency
-purpose: []
 collections:
   - index:
       path: /
@@ -12,29 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.5681003
-  lightness: 0.2389912
-  brandStrength: 0
-  brandColors:
-    - '#000000'
-    - '#B4B4B4'
-    - '#5C5C5C'
-    - '#FFFFFF'
-  rhythmicContrast: 0.4048909
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: SocialOutlier
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.698711
-layout_spectrum: 1
+color:
+  brandColors:
+    - '#231f20'
+    - '#e31f2b'
+    - '#000000'
+    - '#ff0000'
+    - '#aa0000'
+  brandStrength: 0
+  lightness: 0.2389912
+  saturation: 0.5681003
+  rhythmicContrast: 0.4048909
+purpose: []
