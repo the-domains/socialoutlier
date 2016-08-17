@@ -3,20 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ' Twitter Campaign Fails Twitter is an amazingly powerful tool. When used well, it’s an incredible platform from which a brand, organization or single person .'
-datePublished: '2015-11-11T02:35:04.934Z'
-dateModified: '2015-11-11T02:33:51.496Z'
+description: >-
+  Twitter is an amazingly powerful tool. When used well, it’s an incredible
+  platform from which a brand, organization or single person can share
+  information with hundreds of thousands or even millions of individuals across
+  the planet.
+datePublished: '2016-08-17T22:21:41.983Z'
+dateModified: '2016-08-17T22:21:30.795Z'
 title: Twitter Campaign Fails
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: _posts/2015-11-11-twitter-campaign-fails.md
-published: true
+author: []
+via: {}
+starred: true
 url: twitter-campaign-fails/index.html
 _type: Article
 
